@@ -1,0 +1,1 @@
+Description: ZenSpace is a mindfulness and meditation app designed to promote mental well-being. It features guided meditations, breathing exercises, and a serene interface to help users reduce stress, improve focus, and achieve a state of calm.
